@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782415886168-logo.png",
+    "alt": "Flat vector logo mark for “Brew”: a minimal geometric carafe silhouette paired with a clean wordmark. Uses soft cream #F6F0E6 background, deep amber #8A4B1A and warm brown #5C3A21, centered with gener",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782415706803-hero.png",
+    "alt": "Tactile hero image: a tight, eye-level medium close-up of a hand pouring cold-brew into a glass carafe on a wooden tray against a soft cream #F6F0E6 canvas. The shallow DoF, warm amber accents, and mi",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782415696355-feature_1.png",
+    "alt": "Close, tactile mobile-scale still of a hand steadying a glass carafe as cold-brew pours slowly onto a warm wooden tray against a soft cream #F6F0E6 canvas. The composition, filmic grade, and palette-f",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782415727403-feature_2.png",
+    "alt": "Close, tactile still of a slow pour into a glass carafe on a wooden tray; warm morning light and the brand palette (cream #F6F0E6, deep amber #8A4B1A, warm brown #5C3A21) create an intimate, handcraft",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782415729722-feature_3.png",
+    "alt": "Tight, tactile close-up of a cold-brew pour: the carafe lip and subtle crema textures in shallow focus, a real hand on a warm wooden tray, with soft cream canvas and deep amber accents. The image read",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/dirtest-mktg-stage2/cleo/1782416054010-social_proof.png",
+    "alt": "A tight, tactile still showing a hand pouring cold-brew into a glass carafe on a warm wooden tray at a sunlit apartment desk, with negative space on the right reserved for a soft-cream testimonial car",
     "width": 1200,
     "height": 800
   }
